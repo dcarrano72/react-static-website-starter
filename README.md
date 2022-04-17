@@ -1,3 +1,3 @@
-# A very simple static website starter using Create React App
+# A very simple static website starter using React
 
 
